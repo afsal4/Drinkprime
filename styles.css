@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'Normalidad Medium Var';
+    src: url(NormalidadText-Thin.ttf);
+}
+
+@font-face {
+    font-family: 'Normalidad Extended Var';
+    src: url(NormalidadText-Thin.ttf);
+}
+
+@font-face {
+    font-family: 'Normalidad Thin Var';
+    src: url(NormalidadText-Thin.ttf);
+}
+
+* {
+    font-family: 'Normalidad Medium Var';
+    font-weight: 900;
+}
+
+.s1 {
+    background: url("https://drinkprime.com/cdn/shop/files/Homepage_Banner_Desktop_1400x.jpg?v=1672936807") no-repeat;
+    height: 92vh;
+    background-position: top;
+    background-size: cover;
+    padding-top: 400px;
+}
+
+.navbar {
+    color: white;
+    transition: all 0.5s;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+}
+
+.navbar:hover {
+    background-color: white;
+    color: black;
+}
+
+.p1, .p3 {
+    color: white;
+}
+
+.btn-box {
+    bottom: 70px;
+    left: 20px;
+    margin: 0 50px;
+}
+
+.p3 {
+    letter-spacing: 5px;
+    font-size: 16px;
+}
+
+.p1 {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.bttn-1 {
+    background-color: white;
+    padding: 12px 33px;
+    border: none;
+    font-weight: 900;
+    letter-spacing: 0.1rem;
+    line-height: 1.25rem;
+}
+
+.s2 {
+    width: 100%;
+    justify-content: center;
+}
+
+.card {
+    background: transparent;
+}
+
+.s2-box {
+    background: url("https://drinkprime.com/cdn/shop/files/HYDRATION-Header-Text_b83e58ea-7dee-4857-91cc-55dcd3e94062_1300x.png?v=1672432390") no-repeat;
+    min-height: 100px;
+    background-position: center;
+    padding-top: 50px;
+    background-size: contain;
+}
+
+.scrolled {
+    background-color: white;
+    color: black;
+}
+
+
+.s4-box {
+    background: url("https://drinkprime.com/cdn/shop/files/ENERGY-Header-Text-Extended_1769d3bd-dacf-4804-a01a-ddcb2d1b79d1_1100x.png?v=1672432353") no-repeat;
+    background-position: center;
+    height: 100px;
+    width: 100%;
+    background-size: contain;
+    padding-top: 50px;
+}
+
+.s4 {
+    padding: 100px 40px;
+}
+.s5,
+.s2 {
+    padding: 100px 40px;
+}
+
+.s5-box {
+    background: url("https://drinkprime.com/cdn/shop/files/Hydration_Banner_1300x.jpg?v=1684176352") no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 100px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+
+
+.b {
+    border-color: white;
+    color: white;
+}
+
+.h-bttn {
+    color: black;
+    border-color: black;
+}
+
+.black-btn {
+    padding: 5px 40px;
+    color: white;
+    background-color: black;
+    max-width: 180px;
+}
+
+.fs-5 {
+    font-family: 'Normalidad Extended Var';
+}
+
+.f-button {
+    padding: 12px 33px;
+    border: 1px solid white;
+}
+
+.f-inpt {
+    margin: 5px 0;
+    width: 100%;
+    padding: 12px;
+    border: none;
+    outline: none;
+}
+
+.canva-div {
+    padding: 12px 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.164);
+    color: black;
+}
+
+.f-box {
+    padding: 50px;
+}
