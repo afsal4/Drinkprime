@@ -20,6 +20,6 @@ A responsive landing page replica of the DrinkPrime website. This project is bui
 ## 🚀 How to Run
 
 1. Clone the repository:
-   ```bash
-      git clone [https://github.com/afsal4/Drinkprime.git](https://github.com/afsal4/Drinkprime.git)  
-   ```
+```bash
+git clone https://github.com/afsal4/Drinkprime.git  
+```
