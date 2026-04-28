@@ -2,7 +2,12 @@
 
 A responsive landing page replica of the DrinkPrime website. This project is built using pure HTML and CSS to ensure the layout adapts to different screen sizes, from mobile to desktop.
 
-🔗 **[Live Preview](https://afsal4.github.io/Drinkprime/)**
+<img src="preview.png" alt="Website Preivew">
+<br>
+<br>
+
+
+🔗 **[Live Website](https://afsal4.github.io/Drinkprime/)**
 
 ## 📂 Project Overview
 
