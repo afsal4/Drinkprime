@@ -1,10 +1,9 @@
 # DrinkPrime Clone (Responsive)
 
-A responsive landing page replica of the DrinkPrime website. This project is built using pure HTML and CSS to ensure the layout adapts to different screen sizes, from mobile to desktop.
 
 <img src="preview.png" alt="Website Preivew">
 <br>
-<br>
+A responsive landing page replica of the DrinkPrime website. This project is built using pure HTML and CSS to ensure the layout adapts to different screen sizes, from mobile to desktop.
 
 
 🔗 **[Live Website](https://afsal4.github.io/Drinkprime/)**
